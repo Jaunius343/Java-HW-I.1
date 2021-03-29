@@ -1,3 +1,8 @@
+/*
+User inputs words, program finds short words and prists them in a list.
+short word - a word, that's part of the other word.
+*/
+
 package com.company;
 
 import java.util.ArrayList;
